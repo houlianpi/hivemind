@@ -1,3 +1,9 @@
+---
+id: index
+title: Hivemind Index
+slug: /
+---
+
 # Hivemind Index
 
 > 知识库页面索引，按类型分类

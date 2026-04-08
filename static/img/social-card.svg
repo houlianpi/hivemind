@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Hivemind social card">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#13231f"/>
+      <stop offset="100%" stop-color="#1f6b5b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="920" cy="170" r="120" fill="#77c4b2" fill-opacity="0.18"/>
+  <circle cx="1040" cy="470" r="160" fill="#f7f4eb" fill-opacity="0.08"/>
+  <text x="90" y="250" fill="#f7f4eb" font-family="IBM Plex Sans, Segoe UI, sans-serif" font-size="92" font-weight="700">Hivemind</text>
+  <text x="90" y="330" fill="#bae2d8" font-family="IBM Plex Sans, Segoe UI, sans-serif" font-size="36">Team knowledge base powered by the LLM Wiki Pattern</text>
+</svg>
