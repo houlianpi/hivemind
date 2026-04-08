@@ -2,7 +2,6 @@ const config = {
   title: 'Hivemind',
   tagline: 'Team Knowledge Base powered by the LLM Wiki Pattern',
   favicon: 'img/favicon.svg',
-  future: {v4: true},
   url: 'https://houlianpi.github.io',
   baseUrl: '/hivemind/',
   organizationName: 'houlianpi',
